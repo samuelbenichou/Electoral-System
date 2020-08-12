@@ -1,4 +1,4 @@
-# Election-System
+# Electoral System
 
 🗽 This program is a simplified version of the USA🇱🇷 electoral system.
 
